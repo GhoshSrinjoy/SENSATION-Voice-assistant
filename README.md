@@ -24,7 +24,7 @@ The following python libraries are required for the implementation:
 - vosk
 - queue
 
-We have provided a build file that installs all the above required dependencies and starts the Sensation application automatically:
+I have provided a build file that installs all the above-required dependencies and starts the Sensation application automatically:
 ```
 python build.py
 ```
