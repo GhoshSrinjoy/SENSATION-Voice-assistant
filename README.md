@@ -7,9 +7,7 @@ It tells you the time, your location, takes photos, shuts down your system, and 
 
 Powered by **Vosk** for speech recognition and **pyttsx3** for text-to-speech, Sensation turns your Python environment into a smart, privacy-first voice companion.  
 
-🔗 **Repo:** https://github.com/GhoshSrinjoy/SENSATION-Voice-assistant  
 
----
 
 ## Executive Summary  
 
